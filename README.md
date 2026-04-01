@@ -2,22 +2,22 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B;discord+bot+developer;cs2+tooling+%26+reverse+engineering;steam+automation;full-stack+web+dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B;reverse+engineering+%26+game+hacking;discord+bots;steam+automation" alt="Typing SVG" /></a>
 
 <br/>
 
-i run [luminary.pw](https://luminary.pw) — building discord bots, cs2 trackers and steam automation tools.<br/>
+i run [luminary.pw](https://luminary.pw) — reverse engineering, game hacking tools and discord bots.<br/>
 most of the codebase is private.
 
 <br/>
 
 **languages**
 
-[![langs](https://skillicons.dev/icons?i=js,ts,python,cpp,cs&theme=dark)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python&theme=dark)](https://skillicons.dev)
 
 **stack**
 
-[![stack](https://skillicons.dev/icons?i=nodejs,express,discord,astro,tailwind,mongodb,git&theme=dark)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=discord,nodejs,express,mongodb,mysql,tailwind,git&theme=dark)](https://skillicons.dev)
 
 <br/>
 
