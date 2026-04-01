@@ -6,7 +6,7 @@
 
 <br/>
 
-i run [luminary.pw](https://luminary.pw) — interested in game hacking, reverse engineering, discord bots and web development.
+i run [luminary.pw](https://luminary.pw) — into game hacking & reverse engineering, building discord bots and web projects.
 
 <br/>
 
