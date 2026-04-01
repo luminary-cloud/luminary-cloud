@@ -6,8 +6,7 @@
 
 <br/>
 
-i run [luminary.pw](https://luminary.pw) — reverse engineering, game hacking tools and discord bots.<br/>
-most of the codebase is private.
+i run [luminary.pw](https://luminary.pw) — reverse engineering, game hacking and discord bots.
 
 <br/>
 
