@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=header" />
 
-<!--
-**luminary-cloud/luminary-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B;discord+bot+developer;cs2+tooling+%26+reverse+engineering;steam+automation;full-stack+web+dev" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+i run [luminary.pw](https://luminary.pw) — building discord bots, cs2 trackers and steam automation tools.<br/>
+most of the codebase is private.
+
+<br/>
+
+**languages**
+
+[![langs](https://skillicons.dev/icons?i=js,ts,python,cpp,cs&theme=dark)](https://skillicons.dev)
+
+**stack**
+
+[![stack](https://skillicons.dev/icons?i=nodejs,express,discord,astro,tailwind,mongodb,git&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+[![Website](https://img.shields.io/badge/luminary.pw-181a1e?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6)](https://luminary.pw)
+[![Discord](https://img.shields.io/badge/discord-181a1e?style=for-the-badge&logo=discord&logoColor=8b5cf6)](https://discord.gg/luminary)
+[![Email](https://img.shields.io/badge/cloud@luminary.pw-181a1e?style=for-the-badge&logo=maildotru&logoColor=8b5cf6)](mailto:cloud@luminary.pw)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=footer" />
