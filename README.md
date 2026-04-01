@@ -17,7 +17,7 @@ most of the codebase is private.
 
 **stack**
 
-[![stack](https://skillicons.dev/icons?i=discord,nodejs,mongodb,mysql,astro,tailwind,git&theme=dark)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=discord,nodejs,express,mongodb,mysql,tailwind,git&theme=dark)](https://skillicons.dev)
 
 <br/>
 
