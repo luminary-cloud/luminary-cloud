@@ -12,7 +12,7 @@ i run [luminary.pw](https://luminary.pw) — into game hacking & reverse enginee
 
 **languages**
 
-[![langs](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python&theme=dark)](https://luminary.pw)
+[![langs](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python,html,css&theme=dark)](https://luminary.pw)
 
 **stack**
 
