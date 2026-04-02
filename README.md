@@ -12,11 +12,11 @@ i run [luminary.pw](https://luminary.pw) — into game hacking & reverse enginee
 
 **languages**
 
-[![langs](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python&theme=dark)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python&theme=dark)](https://luminary.pw)
 
 **stack**
 
-[![stack](https://skillicons.dev/icons?i=discord,nodejs,mongodb,mysql,astro,tailwind,git&theme=dark)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=discord,nodejs,mongodb,mysql,astro,tailwind,git&theme=dark)](https://luminary.pw)
 
 <br/>
 
