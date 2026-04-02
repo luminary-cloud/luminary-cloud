@@ -16,7 +16,7 @@ i run [luminary.pw](https://luminary.pw) — into game hacking & reverse enginee
 
 **stack**
 
-[![stack](https://skillicons.dev/icons?i=discord,nodejs,mongodb,mysql,astro,tailwind,git&theme=dark)](https://luminary.pw)
+[![stack](https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,git&theme=dark)](https://luminary.pw)
 
 <br/>
 
