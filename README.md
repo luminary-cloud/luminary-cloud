@@ -15,7 +15,7 @@
 <h3 align="center">stack</h3>
 
 <p align="center">
-  <a href="https://luminary.pw"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,html,css,git,cloudflare,visualstudio&theme=dark" alt="stack" /></a>
+  <a href="https://luminary.pw"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,html,css,git,cloudflare,visualstudio,vscode&theme=dark" alt="stack" /></a>
 </p>
 
 <p align="center">
