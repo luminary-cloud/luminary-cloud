@@ -1,23 +1,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=header" />
 
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=8B5CF6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=8B5CF6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<p align="center">running <a href="https://luminary.pw">luminary.pw</a>. windows tooling, reverse engineering, discord bots, and the occasional web thing.</p>
 
-running [luminary.pw](https://luminary.pw). windows tooling, reverse engineering, discord bots, and the occasional web thing.
+<h3 align="center">languages</h3>
 
-**languages**
+<p align="center">
+  <a href="https://luminary.pw"><img src="https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python&theme=dark" alt="langs" /></a>
+</p>
 
-[![langs](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python&theme=dark)](https://luminary.pw)
+<h3 align="center">stack</h3>
 
-**stack**
+<p align="center">
+  <a href="https://luminary.pw"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,html,css,git,cloudflare,visualstudio&theme=dark" alt="stack" /></a>
+</p>
 
-[![stack](https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,html,css,git,cloudflare,vs&theme=dark)](https://luminary.pw)
-
-[![Website](https://img.shields.io/badge/luminary.pw-181a1e?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6)](https://luminary.pw)
-[![Discord](https://img.shields.io/badge/discord-181a1e?style=for-the-badge&logo=discord&logoColor=8b5cf6)](https://discord.gg/luminary)
-[![Email](https://img.shields.io/badge/cloud@luminary.pw-181a1e?style=for-the-badge&logo=maildotru&logoColor=8b5cf6)](mailto:cloud@luminary.pw)
-
-</div>
+<p align="center">
+  <a href="https://luminary.pw"><img src="https://img.shields.io/badge/luminary.pw-181a1e?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6" alt="Website" /></a>
+  <a href="https://discord.gg/luminary"><img src="https://img.shields.io/badge/discord-181a1e?style=for-the-badge&logo=discord&logoColor=8b5cf6" alt="Discord" /></a>
+  <a href="mailto:cloud@luminary.pw"><img src="https://img.shields.io/badge/cloud@luminary.pw-181a1e?style=for-the-badge&logo=maildotru&logoColor=8b5cf6" alt="Email" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=footer" />
